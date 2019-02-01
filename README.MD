@@ -4,8 +4,7 @@ A Chrome extension to automatically go back to the good 'n old reddit design tha
 This is a simple redirector ( or *_redditrector_* if you like) script which will redirect you  to https: //old.reddit. ...  whenever you land on Reddit, saving you the time and effort of writting old.reddit. ... prefix manually.
 This is motivated due to Reddit not longer preserving my preferences  and automatically loading it's  new design by default on each page load, instead of automatically directing me to an old.reddit.. url as it used to do before.
 
-This is a tool  to empower the users to have the design they like , whenever they like, without being tied to the tirany of Material Design, even if Reddit changes their policy and start trying to feed-force it to you.
-
+This is a tool  to empower the users to have the design they like , whenever they like, without being tied to the tirany of Material Design, even if Reddit changes their policies and tries to feed-force it you,now or in the future, being free  to chose 
 ## Instructions
 1. Download the repository from Github to  your PC
 2. Enable the Developper Mode on Chrome extensions by [following these steps](https://developer.chrome.com/extensions/getstarted#unpacked)
