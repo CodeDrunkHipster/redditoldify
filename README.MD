@@ -18,6 +18,6 @@ This is a tool  to empower the users to have the design they like , whenever the
 3. Select the unzipped folder of the extension's repo that you just downloaded.It should appear then among your extensions.
 4. Enjoy 
 
-**A note for Windows users** Unfortunatelly , Chrome believes that Windows users are little babies  so they'll keep reminding you to *disable Developer Mode to be safe* on an annoying bubble. This doesn't happens on Linux or Mac apparently. There [is a way](https://stackoverflow.com/questions/24577024/install-chrome-extension-not-in-the-store) to avoid this, but you have to download a special Chrome for Devs. (which I recommend you so if you're a dev). Please don't disable the Developer Mode to keep the extension working
+**A note for Windows users** Unfortunatelly , Chrome believes that Windows users are like little babies  so they'll keep reminding you to *disable Developer Mode to be safe* on an annoying bubble. This doesn't happens on Linux or Mac apparently. There [is a way](https://stackoverflow.com/questions/24577024/install-chrome-extension-not-in-the-store) to avoid this, but you have to download a special Chrome for Devs. (which I recommend you  if you're a dev). Please don't disable the Developer Mode to keep the extension working
 
 >I promess you I'll defeat the lazyness and upload it to the official Google's Store soon 
